@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "digital-store-solution-client-side-solution",
+    "id": "fb10d0fc-4104-4f20-bdce-b6d131d6601e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/digital-store-solution.sppkg"
+  }
+}

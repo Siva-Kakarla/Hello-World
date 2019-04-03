@@ -1,0 +1,28 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "db8bd2b6-685e-45d5-8176-0ff0b22c403f",
+  "alias": "MvpStoreWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "supportsFullBleed": true,
+
+  
+  "requiresCustomScript": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+    "group": { "default": "Other" },
+    "title": { "default": "MVPStore" },
+    "description": { "default": "MVP store Category view" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "Link1_Hedding": "Link 1",
+      "Link1_Url": "#",
+      "Link2_Hedding": "Link 2",
+      "Link2_Url": "#",
+      "Link3_Hedding": "Link 3",
+      "Link3_Url": "#"
+    }
+  }]
+}
